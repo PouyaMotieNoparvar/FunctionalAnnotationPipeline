@@ -1,4 +1,3 @@
-Here’s a version of your README in **Markdown** format, which should preserve the layout properly when copied and pasted into GitHub:
 
 ---
 
@@ -56,11 +55,3 @@ ATGGCGTG...      sp|Q9XZI2|MT1A_HUMAN    120    1e-50    98%    1    120    1   
 
 ---
 
-### Instructions for GitHub
-
-When you copy this into GitHub, ensure that:
-
-1. You paste it directly into the README editor on the GitHub website.
-2. Verify that the **Preview** tab renders it correctly. Markdown should properly format it to look organized and readable.
-
-Let me know if you face any other issues!
